@@ -1,0 +1,7 @@
+name: BedWars
+version: ${project.version}
+main: de.rexlmanu.bedwars.BedWars
+author: Emmanuel Lampe
+website: https://rexlmanu.de
+commands:
+  stats:
